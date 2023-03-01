@@ -30,5 +30,5 @@ intents.message_content = True
 # we explicitly allowed it to interact with messages
 
 Client = MyClient(intents=intents)
-Client.run('MTA3OTgzNTEyMjg5NzAxNDg5NQ.GrTQ5F.dnovRst0T6Lr_lYq7NLOqcbZ2ZvJzL4JPtovkQ') #replace with a token of my choosing
+Client.run('MTA3OTgzNTEyMjg5NzAxNDg5NQ.G3zkPx.LyRht3E81QamxJGZtf8DPaLbUIvx3KV3A5ZBgo') #replace with a token of my choosing
 # Calling the client and running it
